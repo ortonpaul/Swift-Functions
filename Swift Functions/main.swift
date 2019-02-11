@@ -1,4 +1,4 @@
-//  Greet Function
+//  Swift Functions
 //  Created by Paul Orton on 2/11/19.
 
 import Foundation
